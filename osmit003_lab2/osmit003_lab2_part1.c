@@ -1,3 +1,11 @@
+/*	Partner(s) Name & E-mail: Olivia Smith: osmit003@ucr.edu
+ *	Lab Section: 022
+ *	Assignment: Lab #2 Exercise #1
+ *	
+ *	I acknowledge all content contained herein, excluding template or example
+ *	code, is my own original work.
+ */
+
 #include <avr/io.h>
 
 int main(void)
